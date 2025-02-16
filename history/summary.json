@@ -6,15 +6,15 @@
     "slug": "table-gpt",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "98.77%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
-    "time": 1523,
-    "timeDay": 1340,
-    "timeWeek": 1478,
-    "timeMonth": 1230,
-    "timeYear": 1523,
+    "time": 1517,
+    "timeDay": 1020,
+    "timeWeek": 1345,
+    "timeMonth": 1249,
+    "timeYear": 1517,
     "dailyMinutesDown": {
       "2025-02-14": 18
     }
