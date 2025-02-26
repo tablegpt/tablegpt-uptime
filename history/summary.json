@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/tablegpt.zjuici.com.ico",
     "slug": "table-gpt",
     "status": "up",
-    "uptime": "99.98%",
+    "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "99.98%",
-    "time": 1482,
-    "timeDay": 1300,
+    "uptimeYear": "99.99%",
+    "time": 1477,
+    "timeDay": 1091,
     "timeWeek": 1073,
-    "timeMonth": 1262,
-    "timeYear": 1482,
+    "timeMonth": 1267,
+    "timeYear": 1477,
     "dailyMinutesDown": {
       "2025-02-14": 18
     }
