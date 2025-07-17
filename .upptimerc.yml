@@ -8,6 +8,16 @@ sites:
     expectedStatusCodes:
       - 200
       - 403
+  - name: TableGPT - hzairport
+    url: https://hzairport.tablegpt.zjuici.com
+    expectedStatusCodes:
+      - 200
+      - 403
+  - name: TableGPT-SQL - opendata
+    url: https://opendata.tablegpt.zjuici.com
+    expectedStatusCodes:
+      - 200
+      - 403
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
