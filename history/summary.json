@@ -26,19 +26,19 @@
     "url": "https://hzairport.tablegpt.zjuici.com",
     "icon": "https://icons.duckduckgo.com/ip3/hzairport.tablegpt.zjuici.com.ico",
     "slug": "table-gpt-hzairport",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 935,
-    "timeDay": 844,
-    "timeWeek": 910,
-    "timeMonth": 935,
-    "timeYear": 935,
+    "status": "up",
+    "uptime": "99.91%",
+    "uptimeDay": "97.50%",
+    "uptimeWeek": "99.64%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
+    "time": 942,
+    "timeDay": 951,
+    "timeWeek": 938,
+    "timeMonth": 942,
+    "timeYear": 942,
     "dailyMinutesDown": {
-      "2025-08-13": 0
+      "2025-08-13": 36
     }
   },
   {
