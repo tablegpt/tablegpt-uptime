@@ -26,18 +26,20 @@
     "url": "https://hzairport.tablegpt.zjuici.com",
     "icon": "https://icons.duckduckgo.com/ip3/hzairport.tablegpt.zjuici.com.ico",
     "slug": "table-gpt-hzairport",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 939,
-    "timeDay": 878,
-    "timeWeek": 924,
-    "timeMonth": 939,
-    "timeYear": 939,
-    "dailyMinutesDown": {}
+    "time": 935,
+    "timeDay": 844,
+    "timeWeek": 910,
+    "timeMonth": 935,
+    "timeYear": 935,
+    "dailyMinutesDown": {
+      "2025-08-13": 0
+    }
   },
   {
     "name": "TableGPT-SQL - opendata",
