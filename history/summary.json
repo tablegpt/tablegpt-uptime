@@ -4,11 +4,11 @@
     "url": "https://tablegpt.zjuici.com",
     "icon": "https://icons.duckduckgo.com/ip3/tablegpt.zjuici.com.ico",
     "slug": "table-gpt",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.98%",
     "time": 1212,
     "timeDay": 1190,
@@ -16,6 +16,7 @@
     "timeMonth": 1131,
     "timeYear": 1212,
     "dailyMinutesDown": {
+      "2025-09-27": 3,
       "2025-08-19": 39,
       "2025-07-10": 19,
       "2025-03-13": 23,
@@ -27,18 +28,19 @@
     "url": "https://hzairport.tablegpt.zjuici.com",
     "icon": "https://icons.duckduckgo.com/ip3/hzairport.tablegpt.zjuici.com.ico",
     "slug": "table-gpt-hzairport",
-    "status": "up",
-    "uptime": "99.90%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "99.89%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.90%",
+    "uptimeYear": "99.89%",
     "time": 961,
     "timeDay": 899,
     "timeWeek": 1142,
     "timeMonth": 1010,
     "timeYear": 961,
     "dailyMinutesDown": {
+      "2025-09-27": 2,
       "2025-08-19": 73,
       "2025-08-13": 36
     }
@@ -48,7 +50,7 @@
     "url": "https://opendata.tablegpt.zjuici.com",
     "icon": "https://icons.duckduckgo.com/ip3/opendata.tablegpt.zjuici.com.ico",
     "slug": "table-gpt-sql-opendata",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -60,6 +62,7 @@
     "timeMonth": 951,
     "timeYear": 918,
     "dailyMinutesDown": {
+      "2025-09-27": 0,
       "2025-08-19": 39
     }
   }
